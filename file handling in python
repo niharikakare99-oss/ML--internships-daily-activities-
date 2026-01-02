@@ -1,5 +1,0 @@
-def add(a,b): #function with parameters
-    print(a+b)
-num1=int(input("enter first number:"))
-num2=int(input("enetr second number:"))
-add(num1,num2)
